@@ -1,5 +1,4 @@
- Globussoft – Task 1 (Amazon Laptop Scraper)
-This repository contains the solution for Task 1 from the assignment.  
+Amazon Laptop Scraper
 The task is to scrape laptop product details from Amazon.in and save them into a CSV file.
  Description
 The script sends an HTTP request to Amazon.in search results using `requests`, parses the HTML using `BeautifulSoup`, extracts product information, and stores the results into a CSV file. The CSV filename includes a timestamp.
